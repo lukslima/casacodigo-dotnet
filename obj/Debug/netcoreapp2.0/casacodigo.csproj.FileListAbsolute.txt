@@ -1,0 +1,10 @@
+/home/lucas/workspace/casacodigo/bin/Debug/netcoreapp2.0/casacodigo.deps.json
+/home/lucas/workspace/casacodigo/bin/Debug/netcoreapp2.0/casacodigo.runtimeconfig.json
+/home/lucas/workspace/casacodigo/bin/Debug/netcoreapp2.0/casacodigo.runtimeconfig.dev.json
+/home/lucas/workspace/casacodigo/bin/Debug/netcoreapp2.0/casacodigo.dll
+/home/lucas/workspace/casacodigo/bin/Debug/netcoreapp2.0/casacodigo.pdb
+/home/lucas/workspace/casacodigo/obj/Debug/netcoreapp2.0/casacodigo.csproj.CoreCompileInputs.cache
+/home/lucas/workspace/casacodigo/obj/Debug/netcoreapp2.0/casacodigo.AssemblyInfoInputs.cache
+/home/lucas/workspace/casacodigo/obj/Debug/netcoreapp2.0/casacodigo.AssemblyInfo.cs
+/home/lucas/workspace/casacodigo/obj/Debug/netcoreapp2.0/casacodigo.dll
+/home/lucas/workspace/casacodigo/obj/Debug/netcoreapp2.0/casacodigo.pdb
